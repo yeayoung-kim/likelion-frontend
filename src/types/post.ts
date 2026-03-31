@@ -1,3 +1,4 @@
+
 export type Comment = {
   id: string | number
   author: string
@@ -14,4 +15,3 @@ export type Post = {
   likesCount: number
   comments: Comment[]
 }
-

@@ -43,4 +43,3 @@ export function CommentItem({ comment, className }: CommentItemProps) {
     </article>
   )
 }
-
